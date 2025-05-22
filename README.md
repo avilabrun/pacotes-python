@@ -1,18 +1,23 @@
 # Criação de pacotes em Python
 
-## Package_name
+## bank_package
 
-Description
+The goal of the system is to provide a simple banking system.
+the system has two files:
+- account:
+    - creation of the users and acconts
+- operations
+    - withdrawal, deposit and balance inquiry operations
 
 ## Installation
 
 Use 
 
-`pip install package_name`
+`pip install bank_package`
 
 ## Usage
 
-`from package_name.modulo import file.myfunction()`
+`from ank_package.acc_management import "file.myfunction()"`
 
 ## Author
 
